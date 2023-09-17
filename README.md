@@ -11,9 +11,9 @@ Rules:
 6. The number of coins needed to spin the lottery has been reduced from 1000 to 100
 
 Attributions:
-https://assetstore.unity.com/packages/2d/fonts/bubble-font-free-version-24987
-https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954
-https://assetstore.unity.com/packages/2d/textures-materials/sky/toony-skies-11020
-https://assetstore.unity.com/packages/vfx/shaders/fast-dynamic-sky-152747
-https://assetstore.unity.com/packages/3d/vehicles/air/super-spitfire-53217
-https://assetstore.unity.com/packages/2d/gui/icons/simple-spinner-progress-indicators-for-ui-237500
+1. https://assetstore.unity.com/packages/2d/fonts/bubble-font-free-version-24987
+2. https://assetstore.unity.com/packages/2d/fonts/fatality-fps-gaming-font-216954
+3. https://assetstore.unity.com/packages/2d/textures-materials/sky/toony-skies-11020
+4. https://assetstore.unity.com/packages/vfx/shaders/fast-dynamic-sky-152747
+5. https://assetstore.unity.com/packages/3d/vehicles/air/super-spitfire-53217
+6. https://assetstore.unity.com/packages/2d/gui/icons/simple-spinner-progress-indicators-for-ui-237500
