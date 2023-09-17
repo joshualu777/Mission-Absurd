@@ -2,6 +2,8 @@
  
 Based on Catch-22, a true story of absurdity
 
+Link to game: https://jlu777.itch.io/mission-absurd
+
 Rules:
 1. Enter full screen before playing
 2. Complete the required number of mission before exiting
